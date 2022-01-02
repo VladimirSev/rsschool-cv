@@ -7,10 +7,26 @@ a {
     color: black;
 }
 
-img{
-    border-radius: 50%;
+body{
+    height: 100vh;
+    background: rgb(80, 66, 66);
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 24px;
+    word-spacing: 2px;
 }
-img:hover{
-    border-radius:30%;
-    transition: 0.5s;
+header{
+    display: flex;
 }
+.header img {
+    height: 50px;
+    width: 50px;
+}
+.header__menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header__menu li a{
+    display: block;
+    padding: 30px;
+}
+
