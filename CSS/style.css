@@ -7,3 +7,10 @@ a {
     color: black;
 }
 
+img{
+    border-radius: 50%;
+}
+img:hover{
+    border-radius:30%;
+    transition: 0.5s;
+}
