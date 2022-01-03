@@ -6,6 +6,7 @@
 - Discord: Владимир ( @VladimirSev)
 - e-mail: Nikitin.sev@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/volodymyr-nikitin-49622019a/ "My LinkedIn page")
+- [GitHub](https://github.com/VladimirSev "My GitHub")
 
 ## About me:
 
@@ -30,16 +31,18 @@ Unfortunately, I have no real experience to work in IT, And my profession is tot
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NIKITIN VLADIMIR</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MY CODE</title>
 </head>
 <body>
-    <h1>HELLO WORLD!</h1>
+<h1>HELLO WORLD!</h1>
 </body>
 </html>
 ```
+## Education:
+I've been graduated Naval Academy named P.S. Nakhimov in Sevastopol. Now i'm studing in RS School at stagge 0. Try to do my best to pass all stages in future and find a good job.
 
 ## English Level 
 
